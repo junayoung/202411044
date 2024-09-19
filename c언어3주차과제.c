@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 int main(void)
@@ -14,4 +13,3 @@ int main(void)
 	printf("%.1lf km is equal to %.1lf miles", km, mile);
 	return 0;
 }
-*/
